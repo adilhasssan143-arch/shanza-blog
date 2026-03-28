@@ -20,7 +20,7 @@ Mera pehla program “Hello World” likhna ek chhoti achievement lag raha tha, 
 Jab finally output sahi aaya, to mujhe ek confidence mila ke main programming seekh sakta hoon. Yeh moment meri journey ka turning point tha jahan se mera interest aur motivation dono increase hue. (Detail yahan)
 
 ### 3. Compiler ke Nakhre
-![Desktop View](/assets/img/ws.jpg)
+![Desktop View](/assets/img/wa.jpg)
 Shuru mein error messages mujhe bilkul samajh nahi aate thay. Screen par red text dekh kar lagta tha ke kuch bohot complicated problem hai. Lekin baad mein mujhe pata chala ke errors actually help karte hain.
 
 Maine seekha ke error ko dhyan se read karna aur uska matlab samajhna bohot zaroori hai. Yeh skill mujhe debugging mein strong banane lagi aur problems solve karna asaan ho gaya. (Detail yahan)
