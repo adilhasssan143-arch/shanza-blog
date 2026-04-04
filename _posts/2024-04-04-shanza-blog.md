@@ -1,9 +1,6 @@
 ---
 title: "Week 1: My PF Journey"
-date: 2024-04-04
+date: 2024-04-04 12:00:00 +0500
 categories: [Blogging]
-published: true
+tags: [welcome]
 ---
-
-## Test Post
-Aapki mehnat mehfooz hai, ye sirf website check karne ke liye hai.
