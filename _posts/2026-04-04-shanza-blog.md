@@ -1,8 +1,9 @@
 ---
 title: "Week 1: My PF Journey-The Syntax War Begins"
 date: 2026-04-04 
-categories: [Blogging, Programming]
-tags: [pf, struggle, engineering]
+categories: [Blogging]
+tags: [welcome]
+published: true
 ---
 
 ![Desktop View](/assets/img/hi.jpg)
