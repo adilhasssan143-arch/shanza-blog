@@ -1,10 +1,10 @@
 ---
-title: "Week 1: My PF Journey"
+title: "Week 1: Computer engineering"
 date: 2026-04-04 12:00:00 +0500
 categories: [Blogging]
 tags: [welcome]
 ---
-
+    My PF journey
 ![Desktop View](/assets/img/hi.jpg)
 
  Intro:
