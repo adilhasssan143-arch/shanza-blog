@@ -1,4 +1,4 @@
 ---
-Layout: homme
+Layout: home
 tittle: My Blog Posts
 ---
